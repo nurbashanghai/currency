@@ -1,6 +1,5 @@
 import React, { useContext } from 'react';
 import { mainContext } from '../context/context';
-import Header from './header';
 
 
 const Sidebar = () => {

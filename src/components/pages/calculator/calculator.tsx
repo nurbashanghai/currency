@@ -1,6 +1,6 @@
 // Libs
 import React, { useContext, useEffect, useState } from 'react';
-import { Select, Input, Button } from '@mantine/core';
+import { Select, Input } from '@mantine/core';
 
 // Custom components and functions
 import { getConvertion } from '../../api/requests';
